@@ -1,0 +1,6 @@
+owner=600336422796263434
+prefix=a
+game=i love u ashwaq
+stayinchannel=true
+songinstatus=false
+token=NDI4MTM5MjY1NDE5OTAyOTc2.XlrWmA.Wgipr6Vi4YxPDyoFAA-cCcFWteI
